@@ -4,7 +4,7 @@ channels:
   - defaults
   - esri
 dependencies:
-  - python=3.9
+  - python
   - geopandas
   - cartopy
   - notebook
