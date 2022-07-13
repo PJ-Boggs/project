@@ -1,6 +1,6 @@
-# EGM722 Project: Release Sheet Table Automation
+# Release Sheet Table Automation
 
-Project repository for EGM722: Programming for GIS and Remote Sensing at Ulster University
+EGM722: Programming for GIS and Remote Sensing at Ulster University
 
 ## 1. Background:
 
